@@ -1,0 +1,6 @@
+#
+# Исключить файлы из экспорта
+#
+
+.gitattributes export-ignore
+.gitignore export-ignore
